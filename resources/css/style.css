@@ -1,0 +1,182 @@
+html {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(https://tophinhanhdep.com/wp-content/uploads/2021/11/Avengers-Endgame-3D-Wallpapers.jpg);
+    background-repeat: initial;
+}
+
+body>.container {
+    padding-bottom: 30px;
+    padding-top: 60px;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    background-color: #EEE;
+    color: rgb(249, 246, 246);
+    ;
+    margin-bottom: 30px;
+}
+
+.navbar {
+    background-image: linear-gradient(45deg, rgb(78, 79, 79), rgb(43, 42, 42));
+}
+
+.nav-color {
+    color: #fff !important;
+}
+
+.form-group {
+    width: 50%;
+}
+
+.btn {
+    background-color: #fff;
+    color: rgb(247, 247, 250);
+}
+
+.brn:hover {
+    background-color: rgb(247, 247, 250);
+    color: #EEE;
+}
+
+.btn-delete {
+    background-color: red!important;
+}
+
+.btn-update {
+    background-color: rgb(4, 160, 108)!important;
+}
+
+.btn-info {
+    background-color: rgb(16, 143, 217)!important;
+}
+
+.btn-add {
+    background-color: rgb(12, 199, 81)!important;
+    margin-bottom: 30px;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 22px;
+    background-image: linear-gradient(45deg, rgb(78, 79, 79), rgb(43, 42, 42));
+}
+
+.txt-color {
+    color: rgb(14, 2, 2)!important;
+}
+
+table {
+    background-color: #EEE;
+    border: 5px solid rgb(249, 246, 246);
+    ;
+}
+
+td,
+th {
+    padding: 5px;
+}
+
+tr.show_director {
+    border-bottom: 2.5px solid rgb(249, 246, 246);
+    ;
+}
+
+.txt-title {
+    font-size: x-large;
+    margin-bottom: 30px;
+}
+
+.txt-footer {
+    padding-top: 4px;
+    margin: 0 0 0 360px;
+}
+
+.table-striped {
+    width: 1024px;
+}
+
+.txt-show {
+    margin: 20px 0 20px 0;
+}
+
+.txt-show2 {
+    margin-bottom: 20px;
+}
+
+#logreg-forms {
+    width: 412px;
+    margin: 10vh auto;
+    background-color: #04026d;
+    box-shadow: 0 1px 5px rgba(0, 0, 255, 0.3), 0 1px 2px rgba(0, 0, 255, 0.3);
+    transition: all 0.3s cubic-bezier(.25, .8, .25, 1);
+}
+
+#logreg-forms form {
+    width: 100%;
+    max-width: 410px;
+    padding: 15px;
+    margin: auto;
+}
+
+#logreg-forms .form-control {
+    position: relative;
+    box-sizing: border-box;
+    height: auto;
+    padding: 10px;
+    font-size: 16px;
+}
+
+#logreg-forms .form-control:focus {
+    z-index: 2;
+}
+
+#logreg-forms .form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+#logreg-forms .form-signin input[type="password"] {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+#logreg-forms a {
+    display: block;
+    padding-top: 10px;
+    color: lightseagreen;
+}
+
+#logreg-form .lines {
+    width: 200px;
+    border: 1px solid red;
+}
+
+#logreg-forms label {
+    margin-top: 8px;
+}
+
+#logreg-forms button[type="submit"] {
+    color: #04026d;
+    margin-top: 5px;
+}
+
+#logreg-forms .form-reset,
+#logreg-forms .form-signup {
+    display: none;
+}
+
+#logreg-forms .form-signup input {
+    margin-bottom: 2px;
+}
